@@ -4,70 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c3c4d89-6c89-4d80-a9cc-d182f4bace2e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Assignment/Assignment_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Assignment/Assignment_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Assignment/Assignment_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Assignment/testNG_Assignment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Actions/Lab036_keyboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Actions/Lab037_SpiceJet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Actions/Lab038_MakeMyTrip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Actions/Lab039_VWOHover.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Actions/Lab040_PageDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Actions/Lab041_DragAndDrop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Actions/Lab042_uploadFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Actions/Lab045_RightClick_DoubleClick.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Actions/toUpload.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/DataDrivenTesting/Lab052_CreateExcel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/DataDrivenTesting/Lab053_CreateSheet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/DataDrivenTesting/Lab054_ReadExcelIF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/DataDrivenTesting/Lab055_RedExcelWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/DataDrivenTesting/Lab056_CreateCell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/DataDrivenTesting/RealTimeScenario/ExcelReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/DataDrivenTesting/RealTimeScenario/Lab057_NoExcel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/DataDrivenTesting/RealTimeScenario/Lab058_FromExcel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/DataDrivenTesting/TestRun.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Ex_13072024/Lab010.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Ex_13072024/Lab011_PageLoadStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Ex_13072024/Lab012.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Ex_13072024/Lab013.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Ex_13072024/Lab014.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Ex_16072024/Lab015_Xpath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Ex_16072024/Lab016_tableXpath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Ex_16072024/Lab017_Axes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Ex_18072024/Lab018_CSSSelector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Ex_18072024/Lab019.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Ex_18072024/Lab020.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Ex_18072024/Lab021_Wait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Ex_20072024/Lab022.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Ex_20072024/Lab023_ExplicitWait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Ex_20072024/Lab024_FluentWait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Ex_20072024/Lab025_dropdown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Ex_20072024/Lab026_Alert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Ex_20072024/Lab027_checkbox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Ex_20072024/Lab028_Radio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Ex_20072024/Lab029_StaticTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Ex_20072024/WaitHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Ex_23072024/Lab030_DynamicTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Ex_23072024/Lab031_SVG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Ex_23072024/Lab032_SVGMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Ex_23072024/Lab033_DynamicTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Ex_23072024/Lab036_FlipkartMouseHover.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Exception/Lab051_Exception.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/RelativeLocator/Lab048_ToRightOf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/RelativeLocator/Lab049_ToLeftOf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Scroll/Lab035.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/ShadowDOM/Lab034.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/WindowHandle/Lab043_NewWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/WindowHandle/Lab044_NewWindow_Iterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/WindowHandle/Lab046_MultiWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/WindowHandle/Lab047_OpenNewTab.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/iFrame/Lab050_iframe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/html/suite0_test0_results.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/suite0_test0_results.html" afterDir="false" />
-    </list>
+    <list default="true" id="1c3c4d89-6c89-4d80-a9cc-d182f4bace2e" name="Changes" comment="Selenium code" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -112,6 +49,7 @@
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "TestNG.Assignment_1.loginVWOPositive.executor": "Run",
     "TestNG.Assignment_2.curaLogin.executor": "Run",
     "TestNG.Assignment_3.driver.executor": "Run",
@@ -267,6 +205,51 @@
       <option name="presentableId" value="Default" />
       <updated>1721701540934</updated>
     </task>
+    <task id="LOCAL-00001" summary="Selenium code">
+      <option name="closed" value="true" />
+      <created>1723979588907</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723979588907</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Selenium code">
+      <option name="closed" value="true" />
+      <created>1723980940499</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723980940499</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Selenium code">
+      <option name="closed" value="true" />
+      <created>1723980947132</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1723980947132</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Selenium code">
+      <option name="closed" value="true" />
+      <created>1723980954441</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1723980954441</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Selenium code">
+      <option name="closed" value="true" />
+      <created>1723980964840</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1723980964840</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Selenium code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Selenium code" />
   </component>
 </project>
