@@ -5,24 +5,68 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c3c4d89-6c89-4d80-a9cc-d182f4bace2e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Ex_11072024/Lab001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Ex_11072024/Lab002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Ex_11072024/Lab003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Ex_11072024/Lab004_Selenium3_vs_Selenium4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Ex_11072024/Lab005.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Ex_11072024/Lab006_Quit_Close.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Ex_11072024/Lab007_NavigateTo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Ex_11072024/Lab008.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Assignment/Assignment_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Assignment/Assignment_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Assignment/Assignment_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Assignment/testNG_Assignment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Actions/Lab036_keyboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Actions/Lab037_SpiceJet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Actions/Lab038_MakeMyTrip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Actions/Lab039_VWOHover.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Actions/Lab040_PageDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Actions/Lab041_DragAndDrop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Actions/Lab042_uploadFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Actions/Lab045_RightClick_DoubleClick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Actions/toUpload.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/DataDrivenTesting/Lab052_CreateExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/DataDrivenTesting/Lab053_CreateSheet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/DataDrivenTesting/Lab054_ReadExcelIF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/DataDrivenTesting/Lab055_RedExcelWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/DataDrivenTesting/Lab056_CreateCell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/DataDrivenTesting/RealTimeScenario/ExcelReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/DataDrivenTesting/RealTimeScenario/Lab057_NoExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/DataDrivenTesting/RealTimeScenario/Lab058_FromExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/DataDrivenTesting/TestRun.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Ex_13072024/Lab010.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Ex_13072024/Lab011_PageLoadStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Ex_13072024/Lab012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Ex_13072024/Lab013.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Ex_13072024/Lab014.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Ex_16072024/Lab015_Xpath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Ex_16072024/Lab016_tableXpath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Ex_16072024/Lab017_Axes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Ex_18072024/Lab018_CSSSelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Ex_18072024/Lab019.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Ex_18072024/Lab020.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Ex_18072024/Lab021_Wait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Ex_20072024/Lab022.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Ex_20072024/Lab023_ExplicitWait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Ex_20072024/Lab024_FluentWait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Ex_20072024/Lab025_dropdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Ex_20072024/Lab026_Alert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Ex_20072024/Lab027_checkbox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Ex_20072024/Lab028_Radio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Ex_20072024/Lab029_StaticTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Ex_20072024/WaitHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Ex_23072024/Lab030_DynamicTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Ex_23072024/Lab031_SVG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Ex_23072024/Lab032_SVGMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Ex_23072024/Lab033_DynamicTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Ex_23072024/Lab036_FlipkartMouseHover.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Exception/Lab051_Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/RelativeLocator/Lab048_ToRightOf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/RelativeLocator/Lab049_ToLeftOf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/Scroll/Lab035.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/ShadowDOM/Lab034.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/WindowHandle/Lab043_NewWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/WindowHandle/Lab044_NewWindow_Iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/WindowHandle/Lab046_MultiWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/WindowHandle/Lab047_OpenNewTab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/July/iFrame/Lab050_iframe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/suite0_test0_results.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/suite0_test0_results.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,9 +83,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2jd0EyUSSPd8FU6eSuO0WbGmW3a" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -56,21 +100,85 @@
     "Application.Lab005.executor": "Run",
     "Application.Lab006_Quit_Close.executor": "Run",
     "Application.Lab007_NavigateTo.executor": "Run",
+    "Application.Lab010.executor": "Run",
+    "Application.Lab011_PageLoadStrategy.executor": "Run",
+    "Application.Lab052_CreateExcel.executor": "Run",
+    "Application.Lab053_CreateSheet.executor": "Run",
+    "Application.Lab054_ReadExcel.executor": "Run",
+    "Application.Lab054_ReadExcelIF.executor": "Run",
+    "Application.Lab055_RedExcelWhile (1).executor": "Run",
+    "Application.Lab055_RedExcelWhile.executor": "Run",
+    "Application.Lab056_CreateCell.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.Assignment_1.loginVWOPositive.executor": "Run",
+    "TestNG.Assignment_2.curaLogin.executor": "Run",
+    "TestNG.Assignment_3.driver.executor": "Run",
+    "TestNG.C:/Users/DIVAKAR D/IdeaProjects/LearningSeleniumATB6x/src/test/java/org/example/Assignment/testNG_Assignment.xml.executor": "Run",
+    "TestNG.C:/Users/DIVAKAR D/IdeaProjects/LearningSeleniumATB6x/src/test/java/org/example/July/DataDrivenTesting/TestRun.xml.executor": "Run",
     "TestNG.Lab008.executor": "Run",
+    "TestNG.Lab009.executor": "Run",
+    "TestNG.Lab012.testVWONegative.executor": "Run",
+    "TestNG.Lab013.testVWOLoginNegative.executor": "Run",
+    "TestNG.Lab015.testFreeTrail.executor": "Run",
+    "TestNG.Lab015_Xpath.executor": "Run",
+    "TestNG.Lab015_Xpath.testXpath.executor": "Run",
+    "TestNG.Lab016_tableXpath.table.executor": "Run",
+    "TestNG.Lab017_Axes.axes.executor": "Run",
+    "TestNG.Lab019.executor": "Run",
+    "TestNG.Lab020.executor": "Run",
+    "TestNG.Lab021_Wait.executor": "Run",
+    "TestNG.Lab022.executor": "Run",
+    "TestNG.Lab023.executor": "Run",
+    "TestNG.Lab024.executor": "Run",
+    "TestNG.Lab025.executor": "Run",
+    "TestNG.Lab026_Alert.executor": "Run",
+    "TestNG.Lab027.checkBox.executor": "Run",
+    "TestNG.Lab027.checkBoxIsSelected.executor": "Run",
+    "TestNG.Lab027.executor": "Run",
+    "TestNG.Lab028_Radio.executor": "Run",
+    "TestNG.Lab028_Radio.radioIsSelected.executor": "Run",
+    "TestNG.Lab029_StaticTable.executor": "Run",
+    "TestNG.Lab030_DynamicTable.executor": "Run",
+    "TestNG.Lab031_SVG.executor": "Run",
+    "TestNG.Lab032_SVGMap.executor": "Run",
+    "TestNG.Lab033_DynamicTable.dynamicTableHRM.executor": "Debug",
+    "TestNG.Lab033_DynamicTable.executor": "Run",
+    "TestNG.Lab034.shadowDOM.executor": "Run",
+    "TestNG.Lab035.executor": "Run",
+    "TestNG.Lab036.executor": "Debug",
+    "TestNG.Lab036_Flipkart.executor": "Run",
+    "TestNG.Lab037_SpiceJet.executor": "Run",
+    "TestNG.Lab038_MakeMyTrip.executor": "Run",
+    "TestNG.Lab039_VWOHover.VWOHover.executor": "Run",
+    "TestNG.Lab040_PageDown.executor": "Run",
+    "TestNG.Lab041_DragAndDrop.dragAndDrop.executor": "Run",
+    "TestNG.Lab042_uploadFile.uploadFile.executor": "Run",
+    "TestNG.Lab043_NewWindow.newWindow.executor": "Run",
+    "TestNG.Lab044_NewWindow_Iterator.executor": "Run",
+    "TestNG.Lab044_NewWindow_Iterator.newWindow.executor": "Run",
+    "TestNG.Lab045_RightClick_DoubleClick.rightClick.executor": "Run",
+    "TestNG.Lab046_MultiWindow.newWindow.executor": "Run",
+    "TestNG.Lab047_OpenNewTab.WindowType.executor": "Run",
+    "TestNG.Lab047_OpenNewTab.executor": "Run",
+    "TestNG.Lab048_ToRightOf.testPositive.executor": "Run",
+    "TestNG.Lab049_ToLeftOf.executor": "Run",
+    "TestNG.Lab050_iframe.testPositive.executor": "Run",
+    "TestNG.Lab051_Exception.testPositive.executor": "Run",
+    "TestNG.Lab057.testDataDriven.executor": "Run",
+    "TestNG.Lab058_FromExcel.testDataDriven.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.Lab009">
-    <configuration name="Lab005" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.July.Ex_11072024.Lab005" />
+  <component name="RunManager" selected="TestNG.Lab058_FromExcel.testDataDriven">
+    <configuration name="Lab054_ReadExcelIF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.July.DataDrivenTesting.Lab054_ReadExcelIF" />
       <module name="LearningSeleniumATB6x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.July.Ex_11072024.*" />
+          <option name="PATTERN" value="org.example.July.DataDrivenTesting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +186,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab006_Quit_Close" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.July.Ex_11072024.Lab006_Quit_Close" />
+    <configuration name="Lab055_RedExcelWhile (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.July.DataDrivenTesting.Lab055_RedExcelWhile" />
       <module name="LearningSeleniumATB6x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.July.Ex_11072024.*" />
+          <option name="PATTERN" value="org.example.July.DataDrivenTesting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +199,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab007_NavigateTo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.July.Ex_11072024.Lab007_NavigateTo" />
+    <configuration name="Lab056_CreateCell" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.July.DataDrivenTesting.Lab056_CreateCell" />
       <module name="LearningSeleniumATB6x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.July.Ex_11072024.*" />
+          <option name="PATTERN" value="org.example.July.DataDrivenTesting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,34 +212,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab008_Assert" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab057.testDataDriven" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearningSeleniumATB6x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.July.Ex_11072024.*" />
+          <option name="PATTERN" value="org.example.July.DataDrivenTesting.RealTimeScenario.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.example.July.Ex_11072024" />
-      <option name="MAIN_CLASS_NAME" value="org.example.July.Ex_11072024.Lab008_Assert" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PACKAGE_NAME" value="org.example.July.DataDrivenTesting.RealTimeScenario" />
+      <option name="MAIN_CLASS_NAME" value="org.example.July.DataDrivenTesting.RealTimeScenario.Lab057" />
+      <option name="METHOD_NAME" value="testDataDriven" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab009" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab058_FromExcel.testDataDriven" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearningSeleniumATB6x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.July.Ex_11072024.*" />
+          <option name="PATTERN" value="org.example.July.DataDrivenTesting.RealTimeScenario.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.example.July.Ex_11072024" />
-      <option name="MAIN_CLASS_NAME" value="org.example.July.Ex_11072024.Lab009" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PACKAGE_NAME" value="org.example.July.DataDrivenTesting.RealTimeScenario" />
+      <option name="MAIN_CLASS_NAME" value="org.example.July.DataDrivenTesting.RealTimeScenario.Lab058_FromExcel" />
+      <option name="METHOD_NAME" value="testDataDriven" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -140,11 +250,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Lab009" />
-        <item itemvalue="TestNG.Lab008_Assert" />
-        <item itemvalue="Application.Lab007_NavigateTo" />
-        <item itemvalue="Application.Lab006_Quit_Close" />
-        <item itemvalue="Application.Lab005" />
+        <item itemvalue="TestNG.Lab058_FromExcel.testDataDriven" />
+        <item itemvalue="TestNG.Lab057.testDataDriven" />
+        <item itemvalue="Application.Lab055_RedExcelWhile (1)" />
+        <item itemvalue="Application.Lab056_CreateCell" />
+        <item itemvalue="Application.Lab054_ReadExcelIF" />
       </list>
     </recent_temporary>
   </component>

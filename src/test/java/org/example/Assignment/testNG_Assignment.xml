@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Integration Flow1 - All Test Suite">
+    <test verbose="2" preserve-order="true" name="LearningSeleniumATB6x">
+        <classes>
+            <class name="org.example.Assignment.Assignment_1">
+            </class>
+            <class name="org.example.Assignment.Assignment_2">
+            </class>
+            <class name="org.example.Assignment.Assignment_3">
+            </class>
+        </classes>
+    </test>
+</suite>

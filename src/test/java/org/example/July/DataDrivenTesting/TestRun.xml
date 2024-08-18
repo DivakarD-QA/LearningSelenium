@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Integration Flow1 - All Test Suite">
+    <test verbose="2" preserve-order="true" name="APIAutomationATB6x">
+        <classes>
+            <class name="org.example.July.DataDrivenTesting.Lab053_CreateSheet">
+            </class>
+            <class name="org.example.July.DataDrivenTesting.Lab054_ReadExcelIF">
+            </class>
+            <class name="org.example.July.DataDrivenTesting.Lab055_RedExcelWhile">
+            </class>
+            <class name="org.example.July.DataDrivenTesting.Lab056_CreateCell">
+            </class>
+            <class name="org.example.July.DataDrivenTesting.Lab052_CreateExcel">
+            </class>
+        </classes>
+    </test>
+</suite>
