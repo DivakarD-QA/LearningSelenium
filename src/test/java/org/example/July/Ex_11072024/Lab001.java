@@ -1,13 +1,15 @@
 package org.example.July.Ex_11072024;
 
 import org.openqa.selenium.edge.EdgeDriver;
+import org.testng.annotations.Test;
 
+@Test
 public class Lab001 {
     public static void main(String[] args) throws InterruptedException {
 
         EdgeDriver driver = new EdgeDriver();
         driver.get("https://app.vwo.com/#/login");
-        Thread.sleep(2000);
+        Thread.sleep(1000);
         driver.quit();
 
 
