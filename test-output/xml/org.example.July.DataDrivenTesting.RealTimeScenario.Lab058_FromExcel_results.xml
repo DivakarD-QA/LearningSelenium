@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LearningSeleniumATB6x"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="31.245">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testDataDriven"
+                time="8.191"
+                classname="org.example.July.DataDrivenTesting.RealTimeScenario.Lab058_FromExcel">
+            </testcase>
+            <testcase
+                name="testDataDriven"
+                time="6.207"
+                classname="org.example.July.DataDrivenTesting.RealTimeScenario.Lab058_FromExcel">
+            </testcase>
+            <testcase
+                name="testDataDriven"
+                time="10.086"
+                classname="org.example.July.DataDrivenTesting.RealTimeScenario.Lab058_FromExcel">
+            </testcase>
+            <testcase
+                name="testDataDriven"
+                time="6.761"
+                classname="org.example.July.DataDrivenTesting.RealTimeScenario.Lab058_FromExcel">
+            </testcase>
+</testsuite>

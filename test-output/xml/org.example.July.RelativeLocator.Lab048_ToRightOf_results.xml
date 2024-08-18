@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LearningSeleniumATB6x"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.679">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testPositive"
+                time="0.679"
+                classname="org.example.July.RelativeLocator.Lab048_ToRightOf">
+            </testcase>
+</testsuite>

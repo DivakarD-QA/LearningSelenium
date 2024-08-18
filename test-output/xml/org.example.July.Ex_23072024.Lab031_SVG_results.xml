@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LearningSeleniumATB6x"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="4.040">
+    <properties></properties>
+
+
+
+            <testcase
+                name="svg"
+                time="4.040"
+                classname="org.example.July.Ex_23072024.Lab031_SVG">
+            </testcase>
+</testsuite>

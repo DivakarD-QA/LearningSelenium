@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LearningSeleniumATB6x"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="10.297">
+    <properties></properties>
+
+
+
+            <testcase
+                name="WindowType"
+                time="10.297"
+                classname="org.example.July.WindowHandle.Lab047_OpenNewTab">
+            </testcase>
+</testsuite>

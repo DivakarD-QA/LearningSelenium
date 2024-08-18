@@ -1,0 +1,1 @@
+{"uuid":"5a8a1667-f8cb-4923-ae0a-d575725057e2","name":"LearningSeleniumATB6x","children":["adcb9f2d-ac6b-49e6-a157-c7a7a601eb3f"],"befores":[{"name":"openBrowser","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1723790516924,"stop":1723790520880}],"afters":[],"start":1723790516894,"stop":1723790540389}

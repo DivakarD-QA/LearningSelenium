@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LearningSeleniumATB6x"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="3.377">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testPositive"
+                time="3.377"
+                classname="org.example.July.Exception.Lab051_Exception">
+            </testcase>
+</testsuite>

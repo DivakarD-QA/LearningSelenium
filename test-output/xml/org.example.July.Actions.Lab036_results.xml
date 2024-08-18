@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LearningSeleniumATB6x"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="4.262">
+    <properties></properties>
+
+
+
+            <testcase
+                name="keyboard"
+                time="4.262"
+                classname="org.example.July.Actions.Lab036">
+            </testcase>
+</testsuite>

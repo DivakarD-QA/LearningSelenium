@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LearningSeleniumATB6x"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="15.939">
+    <properties></properties>
+
+
+
+            <testcase
+                name="explicitWait"
+                time="15.939"
+                classname="org.example.July.Ex_20072024.Lab023">
+            </testcase>
+</testsuite>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LearningSeleniumATB6x"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="9.705">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testXpath"
+                time="9.705"
+                classname="org.example.July.Ex_16072024.Lab015_Xpath">
+            </testcase>
+</testsuite>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LearningSeleniumATB6x"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="19.697">
+    <properties></properties>
+
+
+
+            <testcase
+                name="driver"
+                time="19.697"
+                classname="org.example.Assignment.Assignment_3">
+            </testcase>
+</testsuite>

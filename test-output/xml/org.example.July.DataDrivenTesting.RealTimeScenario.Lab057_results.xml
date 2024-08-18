@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LearningSeleniumATB6x"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="27.384">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testDataDriven"
+                time="10.898"
+                classname="org.example.July.DataDrivenTesting.RealTimeScenario.Lab057">
+            </testcase>
+            <testcase
+                name="testDataDriven"
+                time="11.901"
+                classname="org.example.July.DataDrivenTesting.RealTimeScenario.Lab057">
+            </testcase>
+            <testcase
+                name="testDataDriven"
+                time="4.585"
+                classname="org.example.July.DataDrivenTesting.RealTimeScenario.Lab057">
+            </testcase>
+</testsuite>
